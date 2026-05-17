@@ -116,6 +116,7 @@ The model is evaluated using:
 ## How to Run the Project
 
 ### Step 1: Clone Repository
+https://github.com/manasa-meesala/Cervical-Cancer-Diagnosis-DeepLearning.git
 
 
 ```bash
